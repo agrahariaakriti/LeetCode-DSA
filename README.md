@@ -18,4 +18,12 @@
 |  |
 | ------- |
 | [0882-peak-index-in-a-mountain-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
