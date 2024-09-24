@@ -62,4 +62,12 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0948-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
