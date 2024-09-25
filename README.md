@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0948-sort-an-array) |
@@ -12,10 +13,12 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0948-sort-an-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0948-sort-an-array) |
 ## Binary Search
 |  |
