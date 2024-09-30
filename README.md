@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -22,6 +24,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0948-sort-an-array) |
