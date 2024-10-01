@@ -91,6 +91,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [1873-longest-nice-substring](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
 ## Dynamic Programming
@@ -103,4 +104,8 @@
 | [0169-majority-element](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0169-majority-element) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1873-longest-nice-substring](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
