@@ -27,6 +27,7 @@
 | [0075-sort-colors](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search
@@ -87,11 +88,13 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0029-divide-two-integers) |
+| [0389-find-the-difference](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [1873-longest-nice-substring](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+| [0389-find-the-difference](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [1873-longest-nice-substring](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
 ## Dynamic Programming
@@ -102,6 +105,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1873-longest-nice-substring](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
 ## Stack
