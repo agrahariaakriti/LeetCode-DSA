@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0169-majority-element) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0169-majority-element) |
