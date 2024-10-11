@@ -104,6 +104,7 @@
 | [0169-majority-element](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0948-sort-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2427-first-letter-to-appear-twice](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [0029-divide-two-integers](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0029-divide-two-integers) |
 | [0389-find-the-difference](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [1873-longest-nice-substring](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
+| [2427-first-letter-to-appear-twice](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -124,6 +126,7 @@
 | [0389-find-the-difference](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [1873-longest-nice-substring](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
+| [2427-first-letter-to-appear-twice](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,6 +139,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1873-longest-nice-substring](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
+| [2427-first-letter-to-appear-twice](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## Stack
 |  |
 | ------- |
