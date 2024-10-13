@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0169-majority-element) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [1873-longest-nice-substring](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
 | [2427-first-letter-to-appear-twice](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2427-first-letter-to-appear-twice) |
@@ -171,4 +173,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
