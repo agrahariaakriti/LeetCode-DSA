@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0056-merge-intervals) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0075-sort-colors) |
@@ -40,6 +42,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0075-sort-colors) |
