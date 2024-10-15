@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0078-subsets) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0189-rotate-array) |
 ## Bit Manipulation
@@ -174,6 +176,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Monotonic Stack
 |  |
