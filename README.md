@@ -18,6 +18,7 @@
 | [0179-largest-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0414-third-maximum-number) |
@@ -52,6 +53,7 @@
 | [0164-maximum-gap](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0389-find-the-difference) |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0948-sort-an-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0948-sort-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2427-first-letter-to-appear-twice) |
@@ -152,6 +155,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
