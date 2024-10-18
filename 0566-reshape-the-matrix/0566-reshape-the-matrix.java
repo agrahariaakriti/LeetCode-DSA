@@ -8,17 +8,18 @@ class Solution {
     else
     {
         int res[][]=new int[r][c];
-        ArrayList<Integer> al=new ArrayList<>();
+        int al[]=new int[row*col];
+        int k=0;
         for(int i=0;i<row;i++)
         {
             for(int j=0;j<col;j++)
-            al.add(mat[i][j]);
+            al[k++]=mat[i][j];
         }
-        int k=0;
+        k=0;
         for(int i=0;i<r;i++)
         {
             for(int j=0;j<c;j++)
-            res[i][j]=al.get(k++);
+            res[i][j]=al[k++];
         }
         return res;
     }    
