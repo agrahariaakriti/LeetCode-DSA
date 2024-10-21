@@ -30,6 +30,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3330-modify-the-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/3330-modify-the-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | [0566-reshape-the-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0898-transpose-matrix) |
+| [3330-modify-the-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/3330-modify-the-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
