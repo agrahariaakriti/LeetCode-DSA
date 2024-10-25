@@ -11,6 +11,7 @@
 | [0048-rotate-image](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0078-subsets) |
@@ -198,6 +199,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0498-diagonal-traverse) |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0861-flipping-an-image) |
