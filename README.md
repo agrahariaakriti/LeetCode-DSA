@@ -137,6 +137,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0171-excel-sheet-column-number) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0179-largest-number) |
@@ -222,6 +224,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0498-diagonal-traverse) |
