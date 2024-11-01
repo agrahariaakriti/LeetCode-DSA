@@ -168,6 +168,7 @@
 | [0179-largest-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0392-is-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1873-longest-nice-substring](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1894-merge-strings-alternately) |
 | [2427-first-letter-to-appear-twice](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2427-first-letter-to-appear-twice) |
