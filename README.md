@@ -31,6 +31,7 @@
 | [0861-flipping-an-image](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0898-transpose-matrix) |
+| [0941-sort-array-by-parity](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -50,6 +51,7 @@
 | [0189-rotate-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0861-flipping-an-image) |
+| [0941-sort-array-by-parity](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1894-merge-strings-alternately) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -71,6 +73,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0414-third-maximum-number) |
+| [0941-sort-array-by-parity](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
