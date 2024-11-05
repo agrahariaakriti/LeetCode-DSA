@@ -1,24 +1,21 @@
 class Solution {
-    public int[] sortArrayByParity(int[] nums) {
-        ArrayList<Integer> al1=new ArrayList<>();
-        ArrayList<Integer> al2=new ArrayList<>();
-        
-        for(int i=0;i<nums.length;i++)
+    public int[] sortArrayByParity(int[] nums) {   
+        // if()
+        int start=0,end=nums.length-1;
+        int j=start-1;
+        for(int i=0;i<end;i++)
         {
             if(nums[i]%2==0)
-            al1.add(nums[i]);
-            else
-            al2.add(nums[i]);
+            {
+                j++;
+                int temp=nums[j];
+                nums[j]=nums[i];
+                nums[i]=temp;
+            }
         }
-        Collections.sort(al1);
-        Collections.sort(al2);
-        int k=0;
-        for(int i=0;i<al1.size();i++)
-        nums[k++]=al1.get(i);
-
-        for(int i=0;i<al2.size();i++)
-        nums[k++]=al2.get(i);
-
-return nums;
+        int temp=nums[end];
+        nums[end]=nums[j+1];
+        nums[j+1]=temp;
+        return nums;
     }
 }
