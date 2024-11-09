@@ -167,6 +167,7 @@
 | [0389-find-the-difference](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [1873-longest-nice-substring](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
