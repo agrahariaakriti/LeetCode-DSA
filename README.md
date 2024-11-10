@@ -47,6 +47,7 @@
 | [0015-3sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0171-excel-sheet-column-number) |
@@ -251,4 +253,8 @@
 | [0861-flipping-an-image](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0898-transpose-matrix) |
 | [2728-sum-in-a-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2728-sum-in-a-matrix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
