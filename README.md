@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1873-longest-nice-substring](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
 ## Prefix Sum
 |  |
@@ -181,6 +182,7 @@
 | [0179-largest-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0812-rotate-string](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1873-longest-nice-substring](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
@@ -200,6 +202,7 @@
 | [0169-majority-element](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1873-longest-nice-substring](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1873-longest-nice-substring) |
