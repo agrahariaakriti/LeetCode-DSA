@@ -72,6 +72,7 @@
 | [0169-majority-element](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0389-find-the-difference) |
@@ -180,6 +181,7 @@
 | [0168-excel-sheet-column-title](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -201,6 +203,7 @@
 | [0073-set-matrix-zeroes](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
