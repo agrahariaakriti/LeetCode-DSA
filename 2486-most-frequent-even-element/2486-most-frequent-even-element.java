@@ -3,7 +3,10 @@ class Solution {
         HashMap<Integer,Integer> al=new HashMap<>();
         
         for(int i=0;i<nums.length;i++)
+        {
+            if(nums[i]%2==0)
         al.put(nums[i],al.getOrDefault(nums[i],0)+1);
+        }
 
         int max_count=Integer.MIN_VALUE;
         int max_key=Integer.MAX_VALUE;
