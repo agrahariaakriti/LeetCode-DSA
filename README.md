@@ -288,4 +288,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0838-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
