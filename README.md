@@ -291,9 +291,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0838-design-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0838-design-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
