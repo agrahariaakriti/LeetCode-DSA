@@ -293,6 +293,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0838-design-linked-list) |
 ## Design
