@@ -59,6 +59,7 @@
 | [0075-sort-colors](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -220,6 +221,7 @@
 | [0073-set-matrix-zeroes](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0229-majority-element-ii) |
@@ -298,6 +300,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0838-design-linked-list) |
 ## Design
