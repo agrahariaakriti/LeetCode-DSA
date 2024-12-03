@@ -61,6 +61,7 @@
 | [0088-merge-sorted-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0392-is-subsequence) |
@@ -226,6 +227,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0229-majority-element-ii) |
@@ -305,6 +307,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0838-design-linked-list) |
