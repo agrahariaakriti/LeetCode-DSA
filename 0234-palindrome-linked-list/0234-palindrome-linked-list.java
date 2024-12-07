@@ -16,34 +16,19 @@ class Solution {
      ListNode slow=head;
      ListNode fast=head;
 
-    // if(fast.next.next==null)
-    // {
-    //     if(slow.val==fast.next.val)
-    //     return true;
-    //     else
-    //      return false;
-    // }
-    // if(head2.next==null)
      while(fast.next!=null && fast.next.next!=null)
      {
         slow=slow.next;
         fast=fast.next.next;
      }
-     ListNode head2=reverse(slow.next);
-    //  slow.next=head2;
-     
-     ListNode h1=head;
-     ListNode h2=head2;
-     while(h2!=null )
+     ListNode head2=reverse(slow.next);     
+      while(head2!=null )
      {
-      if(h1.val!=h2.val)
+      if(head.val!=head2.val)
       return false;
-        h1=h1.next;
-        h2=h2.next;
+        head=head.next;
+        head2=head2.next;
      }
-    //  if(h2=null)
-    //  return false;
-
          return true;
 
     }
