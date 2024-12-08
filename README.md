@@ -74,6 +74,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
@@ -326,6 +327,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0838-design-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
