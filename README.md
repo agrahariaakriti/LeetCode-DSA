@@ -40,6 +40,7 @@
 | [0898-transpose-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0948-sort-an-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2486-most-frequent-even-element](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2486-most-frequent-even-element) |
@@ -178,6 +179,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
