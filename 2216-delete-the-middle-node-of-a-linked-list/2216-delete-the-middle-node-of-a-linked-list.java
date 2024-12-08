@@ -26,9 +26,6 @@ class Solution {
             count1++;
             temp=temp.next;
         }
-        if(temp.next==null)
-       { temp.next=null;
-        return head;}
         temp.next=temp.next.next;
         return head;
     }
