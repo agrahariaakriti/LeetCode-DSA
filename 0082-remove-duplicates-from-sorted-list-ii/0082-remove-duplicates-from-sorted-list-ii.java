@@ -12,14 +12,14 @@ class Solution {
     public ListNode deleteDuplicates(ListNode head) {
         if(head==null || head.next==null)
         return head;
-        
+
      ListNode temp=head;
-     HashMap<ListNode,Integer> al=new HashMap<>();
+     HashSet<ListNode> al=new HashSet<>();
      while(temp.next!=null)
      {
         if(temp.val==temp.next.val)
         {
-            al.put(temp,temp.val);
+            al.add(temp);
             temp.next=temp.next.next;
         }
         else
@@ -27,9 +27,9 @@ class Solution {
             temp=temp.next;
         }
      } 
-    for(Map.Entry<ListNode,Integer> e:al.entrySet())
+
+    for(ListNode temp2:al)
     {
-        ListNode temp2=e.getKey();
         head=delete(head,temp2);
     }
     return head;
