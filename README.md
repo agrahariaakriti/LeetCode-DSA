@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0018-4sum) |
@@ -232,6 +233,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
