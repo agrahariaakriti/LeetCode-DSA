@@ -8,6 +8,7 @@ class Solution {
             {
                 arr[0]=al.get(target-nums[i]);
                 arr[1]=i;
+                break;
             }
             al.put(nums[i],i);
         }
