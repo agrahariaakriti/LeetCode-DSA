@@ -33,6 +33,7 @@
 | [0324-wiggle-sort-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0525-contiguous-array) |
@@ -248,6 +249,7 @@
 | [0242-valid-anagram](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0525-contiguous-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -260,6 +262,7 @@
 | [0020-valid-parentheses](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 ## Greedy
 |  |
@@ -291,6 +294,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 ## Backtracking
 |  |
