@@ -25,9 +25,7 @@ class Solution {
         int curr=0;
         for(int i=0;i<heights.length;i++)
         {
-            curr=heights[i];
-            curr+=(i-ps[i]-1)*heights[i];
-           curr+=(ns[i]-i-1)*heights[i]; 
+            curr=(ns[i]-ps[i]-1)*heights[i]; 
             res=Math.max(res,curr);
         }
         return res;
