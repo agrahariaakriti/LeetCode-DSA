@@ -20,6 +20,7 @@
 | [0075-sort-colors](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0137-single-number-ii) |
@@ -231,6 +232,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0085-maximal-rectangle) |
 | [0392-is-subsequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -263,6 +265,7 @@
 | [0020-valid-parentheses](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
@@ -284,6 +287,7 @@
 | [0054-spiral-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
@@ -297,6 +301,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 ## Backtracking
