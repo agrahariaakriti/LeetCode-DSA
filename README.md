@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0048-rotate-image) |
@@ -111,6 +112,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
