@@ -1,33 +1,28 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
-        int ns[]=new int[heights.length];
-        int ps[]=new int[heights.length];
-        ArrayDeque<Integer> al=new ArrayDeque<>();
+        ArrayDeque<Integer> al= new ArrayDeque<>();
 
-        for(int i=heights.length-1;i>=0;i--)
-        {
-            while(!al.isEmpty() && heights[al.peek()]>=heights[i])
-            al.pop();
-
-            ns[i]=al.isEmpty()?heights.length : al.peek();
-            al.push(i);
-        }
-        al.clear();
+        int maxArea=0;
         for(int i=0;i<heights.length;i++)
         {
-            while(!al.isEmpty() && heights[al.peek()]>=heights[i])
-            al.pop();
-
-            ps[i]=al.isEmpty()?-1 : al.peek();
+            while(!al.isEmpty() && heights[al.peek()]>heights[i])
+            {
+                int element=heights[al.peek()];
+                al.pop();
+                int nsm=i;
+                int psm=al.isEmpty() ? -1 : al.peek();
+                maxArea=Math.max(maxArea,element*(nsm-psm-1));
+            }
             al.push(i);
         }
-        int res=Integer.MIN_VALUE;
-        int curr=0;
-        for(int i=0;i<heights.length;i++)
+        while(!al.isEmpty())
         {
-            curr=(ns[i]-ps[i]-1)*heights[i]; 
-            res=Math.max(res,curr);
+            int element=heights[al.peek()];
+            al.pop();
+            int nsm=heights.length;
+            int psm=al.isEmpty() ? -1 : al.peek();
+            maxArea=Math.max(maxArea,element*(nsm-psm-1));        
         }
-        return res;
+        return maxArea;
     }
 }
