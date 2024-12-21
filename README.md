@@ -25,6 +25,7 @@
 | [0088-merge-sorted-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0179-largest-number) |
@@ -189,6 +190,7 @@
 | [0029-divide-two-integers](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
@@ -270,6 +272,7 @@
 | [0042-trapping-rain-water](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
