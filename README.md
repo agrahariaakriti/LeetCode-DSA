@@ -196,6 +196,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0227-basic-calculator-ii) |
 | [0367-valid-perfect-square](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
@@ -224,6 +225,7 @@
 | [0179-largest-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0392-is-subsequence) |
@@ -276,6 +278,7 @@
 | [0085-maximal-rectangle](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
