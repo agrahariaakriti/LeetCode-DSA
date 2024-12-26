@@ -283,6 +283,7 @@
 | [0085-maximal-rectangle](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
@@ -371,6 +372,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0838-design-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
@@ -386,4 +388,8 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0463-island-perimeter) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
