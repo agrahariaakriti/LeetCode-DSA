@@ -44,6 +44,7 @@
 | [0503-next-greater-element-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0525-contiguous-array) |
 | [0566-reshape-the-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
+| [0724-find-pivot-index](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [0861-flipping-an-image](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0898-transpose-matrix) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Divide and Conquer
 |  |
