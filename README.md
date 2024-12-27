@@ -207,6 +207,7 @@
 | [0227-basic-calculator-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0227-basic-calculator-ii) |
 | [0367-valid-perfect-square](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1448-maximum-69-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -298,6 +299,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0324-wiggle-sort-ii) |
+| [1448-maximum-69-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1448-maximum-69-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/3195-separate-black-and-white-balls) |
 ## Quickselect
