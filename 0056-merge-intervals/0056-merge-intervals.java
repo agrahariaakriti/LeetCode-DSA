@@ -1,27 +1,28 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-    
-    Arrays.sort(intervals,(a,b)->Integer.compare(a[0],b[0]));
-    int res=0;
-    for(int i=1;i<intervals.length;i++)
-    {
-        if(intervals[res][1]>=intervals[i][0])
+        Arrays.sort(intervals,(a,b)->Integer.compare(a[0],b[0]));
+        int start=0,end=1;
+        int res=0;
+        ArrayList<ArrayList<Integer>> al=new ArrayList<>();
+        for(int i=1;i<intervals.length;i++)
         {
-            intervals[res][0]=Math.min(intervals[res][0],intervals[i][0]);
-            intervals[res][1]=Math.max(intervals[res][1],intervals[i][1]);
+            if(intervals[res][end]>=intervals[i][start])
+            {
+                // ArrayList<Integer> temp=new ArrayList<>();
+                intervals[res][start]=Math.min(intervals[res][start],intervals[i][start]);
+                intervals[res][end]=Math.max(intervals[res][end],intervals[i][end]);
+                // al.add(temp);
+            }
+            else
+            {res++;
+            intervals[res]=intervals[i];}
         }
-        else
+        int interval[][]=new int[res+1][2];
+        for(int i=0;i<=res;i++)
         {
-            res++;
-            intervals[res]=intervals[i];
+            for(int j=0;j<2;j++)
+            interval[i][j]=intervals[i][j];
         }
+        return interval;
     }
-    int res1[][]=new int[res+1][2];
-    for(int i=0;i<=res;i++)
-    {
-    res1[i]=intervals[i];
-    }
-    return res1;
-    }
-    
 }
