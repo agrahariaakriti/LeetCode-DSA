@@ -138,6 +138,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0463-island-perimeter) |
 ## Trie
@@ -301,6 +302,7 @@
 | [0042-trapping-rain-water](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
@@ -421,4 +423,12 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0954-maximum-sum-circular-subarray) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
