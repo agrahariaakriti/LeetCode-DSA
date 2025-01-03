@@ -441,6 +441,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0783-search-in-a-binary-search-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -450,4 +451,9 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0783-search-in-a-binary-search-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
