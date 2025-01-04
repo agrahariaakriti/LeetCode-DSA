@@ -23,6 +23,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0137-single-number-ii) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0191-number-of-1-bits) |
 | [0324-wiggle-sort-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0324-wiggle-sort-ii) |
@@ -279,6 +281,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
@@ -439,6 +442,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -451,6 +455,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
