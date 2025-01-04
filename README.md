@@ -425,6 +425,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0463-island-perimeter](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -444,6 +445,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -458,6 +460,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
