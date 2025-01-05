@@ -15,24 +15,25 @@
  */
 class Solution {
     public int countNodes(TreeNode root) {
-        if(root==null) return 0;
-        ArrayDeque<TreeNode> al=new ArrayDeque<>();
-        al.add(root);
-        int count=0;
-        while(!al.isEmpty())
+        if(root==null)
+        return 0;
+        int lh=0;
+        TreeNode node=root;
+        while(node!=null)
         {
-            int size=al.size();
-            count+=size;
-            for(int i=0;i<size;i++)
-            {
-                TreeNode node=al.poll();
-                if(node.left!=null)
-                al.offer(node.left);
-                if(node.right!=null)
-                al.offer(node.right);
-            }
+            lh++;
+            node=node.left;
         }
-        return count;
-
+        node=root;
+        int rh=0;
+        while(node!=null)
+        {
+            rh++;
+            node=node.right;
+        }
+        if(lh==rh)
+        return (int)Math.pow(2,lh)-1;
+        else
+        return 1+countNodes(root.left)+countNodes(root.right);
     }
 }
