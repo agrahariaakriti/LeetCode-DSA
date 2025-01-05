@@ -148,6 +148,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -263,6 +264,7 @@
 | [0224-basic-calculator](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0389-find-the-difference](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -415,6 +417,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0838-design-linked-list](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
@@ -433,6 +436,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Queue
@@ -461,6 +465,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
@@ -480,6 +485,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
