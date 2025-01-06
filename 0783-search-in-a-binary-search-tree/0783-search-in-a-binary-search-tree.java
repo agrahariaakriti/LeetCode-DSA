@@ -15,27 +15,12 @@
  */
 class Solution {
     public TreeNode searchBST(TreeNode root, int val) {
-        
-        return search(root,val);
-    }
-    TreeNode search(TreeNode root,int val)
-    {
-     ArrayDeque<TreeNode> al=new ArrayDeque<>();
-     al.offer(root);
-     while(!al.isEmpty())
-     {
-        int size=al.size();
-        for(int i=0;i<size;i++)
-        {
-            TreeNode node=al.poll();
-            if(node.val==val)
-            return node;
-            if(node.left!=null)
-            al.offer(node.left);
-            if(node.right!=null)
-            al.offer(node.right);
-        }
-     }
-     return null;
+    if(root==null) return null;
+     if(root.val==val)
+     return root;
+     else if(root.val>val)
+     return searchBST(root.left,val);
+     else
+     return searchBST(root.right,val);
     }
 }
