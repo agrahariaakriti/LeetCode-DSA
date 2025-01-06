@@ -469,6 +469,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -489,9 +490,11 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
