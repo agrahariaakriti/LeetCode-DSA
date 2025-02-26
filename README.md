@@ -230,6 +230,7 @@
 | [0029-divide-two-integers](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0171-excel-sheet-column-number) |
@@ -285,6 +286,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0085-maximal-rectangle) |
 | [0392-is-subsequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0954-maximum-sum-circular-subarray) |
@@ -524,4 +526,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
