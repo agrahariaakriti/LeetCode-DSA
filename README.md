@@ -274,6 +274,7 @@
 | [0389-find-the-difference](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -289,6 +290,7 @@
 | [0062-unique-paths](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0085-maximal-rectangle) |
 | [0392-is-subsequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0954-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
