@@ -25,6 +25,7 @@
 | [0088-merge-sorted-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0137-single-number-ii) |
@@ -293,6 +294,7 @@
 | [0072-edit-distance](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0954-maximum-sum-circular-subarray) |
