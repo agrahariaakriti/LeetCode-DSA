@@ -64,6 +64,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1646-kth-missing-positive-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1646-kth-missing-positive-number) |
 | [2331-intersection-of-multiple-arrays](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2331-intersection-of-multiple-arrays) |
 | [2486-most-frequent-even-element](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2486-most-frequent-even-element) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -139,6 +140,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1646-kth-missing-positive-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1646-kth-missing-positive-number) |
 ## Depth-First Search
 |  |
 | ------- |
