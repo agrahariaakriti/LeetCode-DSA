@@ -73,6 +73,7 @@
 | [2728-sum-in-a-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2728-sum-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2737-row-with-maximum-ones) |
 | [3330-modify-the-matrix](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/3330-modify-the-matrix) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -250,6 +251,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1448-maximum-69-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
