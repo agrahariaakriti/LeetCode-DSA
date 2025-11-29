@@ -66,6 +66,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1646-kth-missing-positive-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1646-kth-missing-positive-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2331-intersection-of-multiple-arrays) |
 | [2486-most-frequent-even-element](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2486-most-frequent-even-element) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -248,6 +249,7 @@
 | [0367-valid-perfect-square](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1448-maximum-69-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -544,4 +546,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0062-unique-paths) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
