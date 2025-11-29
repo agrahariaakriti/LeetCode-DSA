@@ -30,6 +30,7 @@
 | [0134-gas-station](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0179-largest-number) |
@@ -305,6 +306,7 @@
 | [0085-maximal-rectangle](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/agrahariaakriti/LeetCode-DSA/tree/master/0954-maximum-sum-circular-subarray) |
